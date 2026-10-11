@@ -1,0 +1,10 @@
+{
+  "name": "Niyukti — Government Jobs",
+  "short_name": "Niyukti",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "description": "Verified government and public-sector job notifications.",
+  "icons": []
+}
